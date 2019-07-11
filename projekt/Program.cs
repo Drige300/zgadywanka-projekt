@@ -10,7 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
 
             Random rnd = new Random();
             int losowa = rnd.Next(1, 101);
@@ -73,10 +72,9 @@ namespace ConsoleApp1
             Console.WriteLine("Odgadłeś/aś! Brawo Ty!");
 
             Console.ReadKey();
-=======
+
             return false;
-                   
->>>>>>> parent of 1a0facb... finalny projekt
+
         }
     }
 }
